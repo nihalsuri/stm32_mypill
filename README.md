@@ -22,3 +22,7 @@ Personal take on the STM32 line of pill devices
 # 3D View
 
 ![alt text](https://i.ibb.co/BL9kjhV/3d.jpg)
+
+# Final Product 
+
+![alt text](https://i.ibb.co/NV8RXP6/pcb.jpg)
